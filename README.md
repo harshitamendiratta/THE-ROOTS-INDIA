@@ -6,5 +6,6 @@
 - [@bhavyamendiratta](https://github.com/bhavyamendiratta) - **Bhavya Mendiratta** 
 
 ## License
+This project is licensed.
 
 
